@@ -21,21 +21,31 @@ The resource pack currently supports 5 languages: `zh_guji`, `zh_twsc`, `zh_hksc
 
 Converted from `zh_cn` based on *Standard glyph list of generally used Chinese characters for ancient books publishing* (GB/Z 40637-2021). Uses the `s2g.json` configuration from [forFudan/GujiCC](https://github.com/forFudan/GujiCC).
 
+![Sample](sample/sample_zh_guji.png)
+
 ### 简化字文言 (华夏) ([`lzh_simp.json`](output/lzh_simp.json))
 
 Converted by `lzh` according to *List of Commonly Used Standard Chinese Characters*. Uses the `t2s.json` configuration of `opencc`.
+
+![Sample](sample/sample_lzh_simp.png)
 
 ### 简体中文 (台湾) ([`zh_twsc.json`](output/zh_twsc.json))
 
 Converted by `zh_tw` according to *List of Commonly Used Standard Chinese Characters*. Uses the `tw2s.json` configuration of `opencc`.
 
+![Sample](sample/sample_zh_twsc.png)
+
 ### 简体中文 (香港) ([`zh_hksc.json`](output/zh_hksc.json))
 
 Converted from `zh_hk` according to *List of Commonly Used Standard Chinese Characters*. Uses the `hk2s.json` configuration of `opencc`.
 
+![Sample](sample/sample_zh_hksc.png)
+
 ### 舊字體日本語 (日本) ([`ja_kyuu.json`](output/ja_kyuu.json))
 
 Converted from `ja_jp` according to *Jōyō kanji hyō* (JIS X 0213:2004). Uses the `jp2t.json` configuration of `opencc`.
+
+![Sample](sample/sample_ja_kyuu.png)
 
 ## License
 

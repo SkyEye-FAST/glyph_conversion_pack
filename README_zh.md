@@ -21,21 +21,31 @@
 
 由`zh_cn`按《古籍印刷通用字规范字形表》（GB/Z 40637-2021）转换而来。使用[forFudan/GujiCC](https://github.com/forFudan/GujiCC)的`s2g.json`配置。
 
+![Sample](sample/sample_zh_guji.png)
+
 ### 简化字文言 (华夏)（[`lzh_simp.json`](output/lzh_simp.json)）
 
 由`lzh`按照《通用规范汉字表》转换而来。使用`opencc`的`t2s.json`配置。
+
+![Sample](sample/sample_lzh_simp.png)
 
 ### 简体中文 (台湾)（[`zh_twsc.json`](output/zh_twsc.json)）
 
 由`zh_tw`按《通用规范汉字表》转换而来。使用`opencc`的`tw2s.json`配置。
 
+![Sample](sample/sample_zh_twsc.png)
+
 ### 简体中文 (香港)（[`zh_hksc.json`](output/zh_hksc.json)）
 
 由`zh_hk`按《通用规范汉字表》转换而来。使用`opencc`的`hk2s.json`配置。
 
+![Sample](sample/sample_zh_hksc.png)
+
 ### 舊字體日本語 (日本)（[`ja_kyuu.json`](output/ja_kyuu.json)）
 
 由`ja_jp`按《常用汉字表》（JIS X 0213:2004）转换而来。使用`opencc`的`jp2t.json`配置。
+
+![Sample](sample/sample_ja_kyuu.png)
 
 ## 协议
 
