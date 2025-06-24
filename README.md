@@ -1,4 +1,4 @@
-# Renovation Translation Resource Pack
+# Glyph Conversion Resource Pack
 
 **[English](README.md) | [中文](README_zh.md)**
 
