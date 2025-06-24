@@ -21,11 +21,11 @@ The resource pack currently supports 5 languages: `zh_guji`, `zh_twsc`, `zh_hksc
 
 Converted from `zh_cn` based on *Standard glyph list of generally used Chinese characters for ancient books publishing* (GB/Z 40637-2021). Uses the `s2g.json` configuration from [forFudan/GujiCC](https://github.com/forFudan/GujiCC).
 
-### 简化字文言 (华夏) (`lzh_simp.json`)
+### 简化字文言 (华夏) ([`lzh_simp.json`](output/lzh_simp.json))
 
 Converted by `lzh` according to *List of Commonly Used Standard Chinese Characters*. Uses the `t2s.json` configuration of `opencc`.
 
-### 简体中文 (台湾) (`zh_twsc.json`)
+### 简体中文 (台湾) ([`zh_twsc.json`](output/zh_twsc.json))
 
 Converted by `zh_tw` according to *List of Commonly Used Standard Chinese Characters*. Uses the `tw2s.json` configuration of `opencc`.
 
