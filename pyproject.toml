@@ -1,0 +1,11 @@
+[project]
+name = "glyph-conversion-pack"
+version = "1.0.0"
+description = "A Python project for generating renovation language resource pack."
+readme = "README.md"
+authors = [{ name = "SkyEye_FAST", email = "skyeyefast@foxmail.com" }]
+maintainers = [{ name = "SkyEye_FAST", email = "skyeyefast@foxmail.com" }]
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+requires-python = ">=3.12"
+dependencies = ["opencc>=1.1.9", "orjson>=3.10.18"]
