@@ -13,7 +13,7 @@ This project is used to provide a Minecraft: Java Edition resource pack that con
 - [**Download the latest version**](https://github.com/SkyEye-FAST/glyph_conversion_pack/releases/latest/)
 - [View previous versions](https://github.com/SkyEye-FAST/glyph_conversion_pack/releases/)
 
-## Language
+## Languages
 
 The resource pack currently supports 5 languages: `zh_guji`, `zh_twsc`, `zh_hksc`, `lzh_simp`, and `ja_kyuu`.
 
