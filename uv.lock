@@ -3,8 +3,8 @@ revision = 2
 requires-python = ">=3.12"
 
 [[package]]
-name = "converted-translation-pack"
-version = "0.1.0"
+name = "glyph-conversion-pack"
+version = "1.0.0"
 source = { virtual = "." }
 dependencies = [
     { name = "opencc" },
