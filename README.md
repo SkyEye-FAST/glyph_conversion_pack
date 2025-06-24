@@ -23,7 +23,7 @@ Converted from `zh_cn` based on *Standard glyph list of generally used Chinese c
 
 ### 简化字文言 (华夏) (`lzh_simp.json`)
 
-Converted by `lzh` according tot*List of Commonly Used Standard Chinese Characters*. Uses the `t2s.json` configuration of `opencc`.
+Converted by `lzh` according to *List of Commonly Used Standard Chinese Characters*. Uses the `t2s.json` configuration of `opencc`.
 
 ### 简体中文 (台湾) (`zh_twsc.json`)
 
