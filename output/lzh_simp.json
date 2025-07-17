@@ -6245,7 +6245,7 @@
   "stat_type.minecraft.broken": "破数",
   "stat_type.minecraft.crafted": "制物数",
   "stat_type.minecraft.dropped": "弃物数",
-  "stat_type.minecraft.killed": "君既杀%2$s者%1$s回矣",
+  "stat_type.minecraft.killed": "君既杀%2$s%1$s回矣",
   "stat_type.minecraft.killed.none": "君未尝杀%s",
   "stat_type.minecraft.killed_by": "%s既杀君%s回矣",
   "stat_type.minecraft.killed_by.none": "%s未尝杀君",
