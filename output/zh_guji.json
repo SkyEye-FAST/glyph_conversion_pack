@@ -3338,7 +3338,7 @@
   "debug.inspect.server.entity": "服務端實體數據已複製到剪貼板",
   "debug.options.category.renderer": "調試渲染器",
   "debug.options.category.text": "調試屏幕文本",
-  "debug.options.help": "F3 + F5 = 編輯調試選項",
+  "debug.options.help": "F3 + F6 = 編輯調試選項",
   "debug.options.notAllowed.tooltip": "簡化調試信息時隱藏",
   "debug.options.profile.default": "默認配置",
   "debug.options.profile.performance": "性能監控配置",

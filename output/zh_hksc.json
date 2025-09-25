@@ -3338,7 +3338,7 @@
   "debug.inspect.server.entity": "已将伺服器端实体数据复制至剪贴簿",
   "debug.options.category.renderer": "除错渲染器",
   "debug.options.category.text": "除错画面文字",
-  "debug.options.help": "F3 + F5 = 编辑除错选项",
+  "debug.options.help": "F3 + F6 = 编辑除错选项",
   "debug.options.notAllowed.tooltip": "简化除错资讯时隐藏",
   "debug.options.profile.default": "预设设定",
   "debug.options.profile.performance": "效能概况设定",
