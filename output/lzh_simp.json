@@ -3338,7 +3338,7 @@
   "debug.inspect.server.entity": "既钞伺服器侧之实体录于簿",
   "debug.options.category.renderer": "勘误绘器",
   "debug.options.category.text": "勘误幕之文",
-  "debug.options.help": "【F3并F5】纂勘误选项",
+  "debug.options.help": "【F3并F6】纂勘误选项",
   "debug.options.notAllowed.tooltip": "勘误之讯从简则隐",
   "debug.options.profile.default": "预设措置",
   "debug.options.profile.performance": "效能措置",
