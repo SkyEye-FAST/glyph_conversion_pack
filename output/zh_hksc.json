@@ -1,7 +1,7 @@
 {
   "accessibility.onboarding.accessibility.button": "无障碍功能设定⋯⋯",
   "accessibility.onboarding.screen.narrator": "按 Enter 启用朗读功能",
-  "accessibility.onboarding.screen.title": "欢迎来到 Minecraft！\n\n你想启用朗读功能抑或调整无障碍功能设定？",
+  "accessibility.onboarding.screen.title": "欢迎莅临 Minecraft！\n\n你想启用朗读功能抑或调整无障碍功能设定？",
   "addServer.add": "完成",
   "addServer.enterIp": "伺服器地址",
   "addServer.enterName": "伺服器名称",
@@ -5053,7 +5053,7 @@
   "language.code": "zho-Hant_HK",
   "language.name": "繁体中文",
   "language.region": "香港特别行政区",
-  "lectern.take_book": "攞走书本",
+  "lectern.take_book": "取走书本",
   "loading.progress": "%s%%",
   "manageServer.add.title": "新增伺服器",
   "manageServer.edit.title": "编辑伺服器资讯",
