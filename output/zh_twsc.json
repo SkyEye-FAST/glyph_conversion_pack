@@ -2527,7 +2527,7 @@
   "commands.advancement.grant.one.to.many.success": "已将进度 %s 给予 %s 个玩家",
   "commands.advancement.grant.one.to.one.failure": "无法将进度 %s 给予 %s，因为他已达成此进度",
   "commands.advancement.grant.one.to.one.success": "已将进度 %s 给予 %s",
-  "commands.advancement.revoke.criterion.to.many.failure": "无法从 %3$s 个玩家身上撤销进度 %2$s 尚未取得的的条件 '%1$s'",
+  "commands.advancement.revoke.criterion.to.many.failure": "无法从 %3$s 个玩家身上撤销进度 %2$s 尚未取得的条件 '%1$s'",
   "commands.advancement.revoke.criterion.to.many.success": "已从 %3$s 个玩家身上撤销进度 %2$s 的条件 '%1$s'",
   "commands.advancement.revoke.criterion.to.one.failure": "无法从 %3$s 身上撤销进度 %2$s 尚未取得的条件 '%1$s'",
   "commands.advancement.revoke.criterion.to.one.success": "已从 %3$s 身上撤销进度 %2$s 的条件 '%1$s'",
