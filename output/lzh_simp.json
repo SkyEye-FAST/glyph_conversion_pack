@@ -7689,6 +7689,7 @@
   "test.error.sequence.condition_already_triggered": "限既发于%s刻",
   "test.error.sequence.condition_not_triggered": "限未发",
   "test.error.sequence.invalid_tick": "成于无效刻：应为%s",
+  "test.error.sequence.minimum_tick": "所冀之刻前既成：宜待%s",
   "test.error.sequence.not_completed": "测逾时于序成前",
   "test.error.set_biome": "设测之生态域未成",
   "test.error.spawn_failure": "创实体%s未成",
