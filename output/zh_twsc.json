@@ -7863,7 +7863,7 @@
   "tutorial.socialInteractions.description": "按下 %s 以开启",
   "tutorial.socialInteractions.title": "社群交流",
   "upgrade.minecraft.netherite_upgrade": "狱髓升级",
-  "upgradeWorld.aborted.message": "如果升级过程中有其他程式正在存取该世界，这种情况就有可能发生。\n重新启动电脑再试一次可能有助于解决。如果问题仍然存在，请考虑回报错误。",
+  "upgradeWorld.aborted.message": "这可能是因为在升级过程中，有另一个程式正在存取该世界。\n重新启动电脑再试一次，可能有助于解决这个问题。如果问题仍然存在，请考虑回报错误。",
   "upgradeWorld.aborted.reportBug": "回报错误",
   "upgradeWorld.aborted.title": "无法升级世界",
   "upgradeWorld.canceled.message": "你的世界将维持原状。",
