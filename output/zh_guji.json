@@ -3120,7 +3120,7 @@
   "commands.trigger.failed.unprimed": "你尚無法觸發這個記分項",
   "commands.trigger.set.success": "已觸發%s（數值已設爲%s）",
   "commands.trigger.simple.success": "已觸發%s",
-  "commands.unpublish.notPublished": "目前尚未開放過多人遊戲",
+  "commands.unpublish.notPublished": "目前尚未開放多人遊戲",
   "commands.unpublish.success": "多人遊戲已取消開放",
   "commands.version.build_time": "build_time = %s",
   "commands.version.data": "data = %s",
