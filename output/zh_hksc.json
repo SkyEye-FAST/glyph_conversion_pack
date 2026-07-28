@@ -4583,6 +4583,7 @@
   "item.minecraft.fire_charge": "火焰弹",
   "item.minecraft.firework_rocket": "烟花",
   "item.minecraft.firework_rocket.flight": "飞行时间：%s",
+  "item.minecraft.firework_rocket.flight_duration": "飞行时间：%s",
   "item.minecraft.firework_rocket.multiple_stars": "%s × %s",
   "item.minecraft.firework_rocket.single_star": "%s",
   "item.minecraft.firework_star": "烟花球",
