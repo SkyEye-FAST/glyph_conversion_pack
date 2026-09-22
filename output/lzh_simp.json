@@ -2913,7 +2913,7 @@
   "commands.item.entity.set.success.single": "既替%s之槽以%s",
   "commands.item.source.no_such_slot": "本无槽%s也",
   "commands.item.source.no_such_slot.unnamed": "源无殊槽",
-  "commands.item.source.not_a_container": "起位%s, %s, %s之上者非器也",
+  "commands.item.source.not_a_container": "始位%s, %s, %s之上者非器也",
   "commands.item.target.failed": "无的受物于所定之槽",
   "commands.item.target.failed.known_item": "无的受物%s于所定之槽",
   "commands.item.target.no_changed.known_item": "无槽%2$s受%1$s者也",
